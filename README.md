@@ -56,13 +56,13 @@ This solution shifts HR from:
 ## Dashboard Preview
 
 ### Cohort Retention Funnel
-![Cohort Funnel](assets/cohort-funnel.png)
+![Cohort Funnel](assets/cohort-funnel.PNG)
 
 ### Risk by Department
-![Risk Profile](assets/risk-profile.png)
+![Risk Profile](assets/risk-profile.PNG)
 
 ### Wage Compression Analysis
-![Wage Compression](assets/wage-compression.png)
+![Wage Compression](assets/wage-compression.PNG)
 
 ---
 
